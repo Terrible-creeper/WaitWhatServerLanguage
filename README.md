@@ -1,0 +1,2 @@
+# WaitWhatServerLanguage
+For WaitWhatServer
